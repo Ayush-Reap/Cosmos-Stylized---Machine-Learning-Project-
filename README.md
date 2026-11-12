@@ -1,2 +1,2 @@
 # Cosmos-Stylized---Machine-Learning-Project-
-Learning Machine Learning and combining it with my love for astronomy with 100% Human Generated Code. 
+Learning Machine Learning and combining it with my love for astronomy with 100% Human Generated Code. Planned to take an image from the night sky or the internet with cosmic information and detect images or cosmic bodies via image recognition from machine learning models and potentially learning about more astronomical ways to do it like plate solving! 
